@@ -1,9 +1,4 @@
-1. The data set diabetes.csv contains 768 records of patients with 10 attributes. 
-The attributes in the dataset were Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI,
-DiabetesPedigreeFunction, Age, and Outcome. Outcome is a repsonse varibale whihc is binary.
-In outcome, 1 shows the patient has diabetes and 0 shows that the patient has no diabetes. As the part of analysis, the raw diabetes dataset is checked for null values and then it should be cleaned. 
-The cleaned data set has been stored in CleanedData folder. This cleaned data has been used for the analysis.
-For this assignment, this data set been used as population data. 
+1. The data set diabetes.csv contains 768 records of patients with 10 attributes. The attributes in the dataset were Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age, and Outcome. Outcome is a repsonse varibale whihc is binary. In outcome, 1 shows the patient has diabetes and 0 shows that the patient has no diabetes. As the part of analysis, the raw diabetes dataset is checked for null values and then it should be cleaned.  The cleaned data set has been stored in CleanedData folder. This cleaned data has been used for the analysis. For this assignment, this data set been used as population data. 
 
 Part - a: In this part, 25 observations were randomly created named sample_df from population data. Later, the mean and max values of glucose 
 were calculated using the created sample data. And these values were compared same statistics of the population data. TO compare these statistics,
